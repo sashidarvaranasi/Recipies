@@ -3,3 +3,6 @@ Ingredients
 1. Pizza dough
 2. Pizza sauce (see sauce.txt)
 3. Cheese
+4. Green peppers
+5. Mushrooms
+
