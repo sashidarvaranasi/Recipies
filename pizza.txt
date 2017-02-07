@@ -1,4 +1,5 @@
 Ingredients
+
 1. Pizza dough
-2. Pizza sauce
+2. Pizza sauce (see sauce.txt)
 3. Cheese
